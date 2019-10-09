@@ -6,3 +6,5 @@ CSS
 GIT
 Base de Datos
 Nuria Garres
+Alicia Redondo
+
