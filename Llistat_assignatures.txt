@@ -5,3 +5,4 @@ Photoshop
 CSS
 GIT
 Base de Datos
+Alicia Redondo
